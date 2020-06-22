@@ -1,0 +1,17 @@
+{
+  "name": "labforward_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 2000",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.0.1",
+    "rewire": "^5.0.0",
+    "sinon": "^9.0.2"
+  }
+}
