@@ -1,5 +1,3 @@
-Labforward Embedded Engineer Challenge
-
 1/ INTRODUCTION
 
 This nodeJS app provides an illustration of how asynchronous serial communication works between a serial device and a driver. 
